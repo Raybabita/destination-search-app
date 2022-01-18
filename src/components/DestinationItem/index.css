@@ -1,0 +1,18 @@
+.list-item {
+  list-style-type: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.destination-img {
+  height: 250px;
+  width: 250px;
+}
+
+.name {
+  text-align: center;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
